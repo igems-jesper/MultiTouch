@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTouch", "MultiTouch\MultiTouch.csproj", "{63302E6D-F6E8-4655-AD59-F384D2B911F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63302E6D-F6E8-4655-AD59-F384D2B911F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63302E6D-F6E8-4655-AD59-F384D2B911F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63302E6D-F6E8-4655-AD59-F384D2B911F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63302E6D-F6E8-4655-AD59-F384D2B911F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D79745-5985-4437-99A6-6B3338DAF0A8}
+	EndGlobalSection
+EndGlobal
